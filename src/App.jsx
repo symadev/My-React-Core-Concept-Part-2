@@ -25,6 +25,7 @@ function App() {
         </a>
       </div>
       <h1>React Core Concept</h1>
+      <hr />
        <Users></Users>  
         <Friends></Friends> 
          
